@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Header 1
 # Installing and Configuring a Virtual Network
 
-### Project Overview: SAVN.local Virtual Network Implementation
+## Project Overview: SAVN.local Virtual Network Implementation
 
 "SAVN.local" is a virtual private network (VPN) designed for a fictitious company called System Administration Virtual Network Company (SAVN). As the company’s system administrator, I am responsible for designing and implementing this network. SAVN’s network infrastructure will be built using Microsoft technologies, specifically Windows Server 2022 for servers and Windows 10 for desktop environments.
 
@@ -28,7 +28,8 @@ Application and File Server (CMB-SP24-S22-2): This server stores and manages app
 Virtual Desktop (CMB-SP24-W10-1): This client machine runs Windows 10 and accesses system resources such as folders and files on the network file server.
 
 Through this project, I will configure IP settings, implement centralized and secure management of the network, and ensure all components work seamlessly together to support SAVN’s operations.
-
+### AD DS AND DNS ROLES INSTALLED
+(1 - AD DS and DNS roles installed.png)
 
 
 ## Header 2
