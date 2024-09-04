@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<a href="https://github.com/chxrpucf/chxrpucf.github.io" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
