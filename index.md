@@ -13,7 +13,23 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Header 1
 # Installing and Configuring a Virtual Network
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Project Overview: SAVN.local Virtual Network Implementation
+
+"SAVN.local" is a virtual private network (VPN) designed for a fictitious company called System Administration Virtual Network Company (SAVN). As the company’s system administrator, I am responsible for designing and implementing this network. SAVN’s network infrastructure will be built using Microsoft technologies, specifically Windows Server 2022 for servers and Windows 10 for desktop environments.
+
+The project involves the following key components:
+
+Virtualization: The entire network setup is virtualized. We have two virtual servers and one virtual desktop. These machines communicate over a local virtual network switch, with my physical computer acting as the network switch.
+
+Domain Controller (CMB-SP24-S22-1): This server manages the SAVN.local domain using Active Directory Domain Services (AD DS) and DNS. It is responsible for locating network resources and controlling access to them.
+
+Application and File Server (CMB-SP24-S22-2): This server stores and manages applications and data files centrally, allowing other networked computers to access these resources.
+
+Virtual Desktop (CMB-SP24-W10-1): This client machine runs Windows 10 and accesses system resources such as folders and files on the network file server.
+
+Through this project, I will configure IP settings, implement centralized and secure management of the network, and ensure all components work seamlessly together to support SAVN’s operations.
+
+
 
 ## Header 2
 
