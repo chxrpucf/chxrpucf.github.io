@@ -1,8 +1,49 @@
 ---
 layout: default
 ---
-<a href="https://github.com/chxrpucf/chxrpucf.github.io" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/assets/css/style.css?v=01badef0229c108daebf260b7d47e7f1e3e890db">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
+<!-- Setup theme-color -->
+<!-- start theme color meta headers -->
+<meta name="theme-color" content="#151515">
+<meta name="msapplication-navbutton-color" content="#151515">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!-- end theme color meta headers -->
+
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Chris Bosco’s Portfolio of Cybersecurity Projects | To showcase my skills to my future employer</title>
+<meta name="generator" content="Jekyll v3.10.0">
+<meta property="og:title" content="Chris Bosco’s Portfolio of Cybersecurity Projects">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="To showcase my skills to my future employer">
+<meta property="og:description" content="To showcase my skills to my future employer">
+<link rel="canonical" href="https://chxrpucf.github.io/">
+<meta property="og:url" content="https://chxrpucf.github.io/">
+<meta property="og:site_name" content="Chris Bosco’s Portfolio of Cybersecurity Projects">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Chris Bosco’s Portfolio of Cybersecurity Projects">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"To showcase my skills to my future employer","headline":"Chris Bosco’s Portfolio of Cybersecurity Projects","name":"Chris Bosco’s Portfolio of Cybersecurity Projects","url":"https://chxrpucf.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
