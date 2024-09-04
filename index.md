@@ -10,7 +10,6 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
 # Installing and Configuring a Virtual Network
 
 ## Project Overview: SAVN.local Virtual Network Implementation
@@ -33,39 +32,53 @@ Through this project, I will configure IP settings, implement centralized and se
 ![Branching](1-AD_DS_and_DNS_roles_installed.png)
 
 
+### CMB-SP24-S22-1 in savn.local domain
+
 ![Branching](2_CMB-SP24-S22-1_in_savn.local_domain.png)
 
+
+### CMB-SP24-S22-1 set as domain controller for savn.local
 
 ![Branching](3_CMB-SP24-S22-1_set_as_domain_controller_for_savn.local.png)
 
 
+### CMB-SP24-S22-2 joins savn.local domain
 ![Branching](4_CMB-SP24-S22-2_joins_savn.local_domain.png)
 
 
+### CMB-SP24-W10-1 joins savn.local domain
 ![Branching](5_CMB-SP24-W10-1_joins_savn.local_domain.png)
 
 
+### Computers in savn.local Active Directory
 ![Branching](6_Computers_in_savn.local_AD.png)
 
 
+### Ping CMB-SP24-S22-1
 ![Branching](7_ping_CMB-SP24-S22-1.png)
 
 
+### Ping CMB-SP24-S22-2
 ![Branching](8_ping_CMB-SP24-S22-2.png)
 
 
+### Ping CMB-SP24-W10-1
 ![Branching](9_ping_CMB-SP24-W10-1.png)
 
 
+### ipconfig /all CMB-SP24-S22-1
 ![Branching](10_ipconfigAll_CMB-SP24-S22-1.png)
 
 
+### ipconfig /all CMB-SP24-S22-2
 ![Branching](11_ipconfigAll_CMB-SP24-S22-2.png)
 
 
+### ipconfig /all CMB-SP24-W10-1
 ![Branching](12_ipconfigAll_CMB-SP24-W10-1.png)
 
 
+### ipconfig /all CMB-SP24-
 ![Branching](13_ipconfigAll_CMB-SP24-W10-1.png)
 
 
