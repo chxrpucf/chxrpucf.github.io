@@ -78,8 +78,7 @@ Through this project, I will configure IP settings, implement centralized and se
 ![Branching](12_ipconfigAll_CMB-SP24-W10-1.png)
 
 
-# ___________________________________________________
-# ___________________________________________________
+
 
 
 ## Header 2
