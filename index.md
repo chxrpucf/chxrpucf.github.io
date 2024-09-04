@@ -33,7 +33,40 @@ Through this project, I will configure IP settings, implement centralized and se
 ![Branching](1-AD_DS_and_DNS_roles_installed.png)
 
 
-![Branching](10-ipconfigAll_CMB-SP24-S22-1.png)
+![Branching](2_CMB-SP24-S22-1_in_savn.local_domain.png)
+
+
+![Branching](3_CMB-SP24-S22-1_set_as_domain_controller_for_savn.local.png)
+
+
+![Branching](4_CMB-SP24-S22-2_joins_savn.local_domain.png)
+
+
+![Branching](5_CMB-SP24-W10-1_joins_savn.local_domain.png)
+
+
+![Branching](6_Computers_in_savn.local_AD.png)
+
+
+![Branching](7_ping_CMB-SP24-S22-1.png)
+
+
+![Branching](8_ping_CMB-SP24-S22-2.png)
+
+
+![Branching](9_ping_CMB-SP24-W10-1.png)
+
+
+![Branching](10_ipconfigAll_CMB-SP24-S22-1.png)
+
+
+![Branching](11_ipconfigAll_CMB-SP24-S22-2.png)
+
+
+![Branching](12_ipconfigAll_CMB-SP24-W10-1.png)
+
+
+![Branching](13_ipconfigAll_CMB-SP24-W10-1.png)
 
 
 ## Header 2
