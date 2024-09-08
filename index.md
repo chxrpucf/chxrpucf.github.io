@@ -75,7 +75,7 @@ Through this project, I will configure IP settings, implement centralized and se
 
 
 
-## Header 2
+## ==================================================================================
 
 > This is a blockquote following a header.
 >
