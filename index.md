@@ -19,9 +19,10 @@ Application and File Server (CMB-SP24-S22-2): This server stores and manages app
 Virtual Desktop (CMB-SP24-W10-1): This client machine runs Windows 10 and accesses system resources such as folders and files on the network file server.
 
 Through this project, I will configure IP settings, implement centralized and secure management of the network, and ensure all components work seamlessly together to support SAVN’s operations.
-### AD DS AND DNS ROLES INSTALLED
 
 <a href="https://docs.google.com/document/d/1HnYFiNJ5eso6yP-6tgihzOVBIvID8p6SlmEawQNcixk/edit?usp=sharing">Installing and Configuring a Virtual Network PDF</a>
+
+### AD DS AND DNS ROLES INSTALLED
 
 ![Branching](1-AD_DS_and_DNS_roles_installed.png)
 
