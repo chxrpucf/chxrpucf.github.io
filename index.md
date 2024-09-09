@@ -22,62 +22,12 @@ Through this project, I will configure IP settings, implement centralized and se
 
 <a href="https://docs.google.com/document/d/1HnYFiNJ5eso6yP-6tgihzOVBIvID8p6SlmEawQNcixk/edit?usp=sharing">Installing and Configuring a Virtual Network PDF</a>
 
-### AD DS AND DNS ROLES INSTALLED
-
-![Branching](1-AD_DS_and_DNS_roles_installed.png)
-
-
-### CMB-SP24-S22-1 in savn.local domain
-
-![Branching](2_CMB-SP24-S22-1_in_savn.local_domain.png)
-
-
-### CMB-SP24-S22-1 set as domain controller for savn.local
-
-![Branching](3_CMB-SP24-S22-1_set_as_domain_controller_for_savn.local.png)
-
-
-### CMB-SP24-S22-2 joins savn.local domain
-![Branching](4_CMB-SP24-S22-2_joins_savn.local_domain.png)
-
-
-### CMB-SP24-W10-1 joins savn.local domain
-![Branching](5_CMB-SP24-W10-1_joins_savn.local_domain.png)
-
-
-### Computers in savn.local Active Directory
-![Branching](6_Computers_in_savn.local_AD.png)
-
-
-### Ping CMB-SP24-S22-1
-![Branching](7_ping_CMB-SP24-S22-1.png)
-
-
-### Ping CMB-SP24-S22-2
-![Branching](8_ping_CMB-SP24-S22-2.png)
-
-
-### Ping CMB-SP24-W10-1
-![Branching](9_ping_CMB-SP24-W10-1.png)
-
-
-### ipconfig /all CMB-SP24-S22-1
-![Branching](10_ipconfigAll_CMB-SP24-S22-1.png)
-
-
-### ipconfig /all CMB-SP24-S22-2
-![Branching](11_ipconfigAll_CMB-SP24-S22-2.png)
-
-
-### ipconfig /all CMB-SP24-W10-1
-![Branching](12_ipconfigAll_CMB-SP24-W10-1.png)
-
 
 
 
 # Managing the SAVN.local Domain
 
-## Project Overview: In this project, I managed the SAVN.local domain by performing essential system administration tasks. The focus was on configuring and securing the network by creating and managing Organizational Units (OUs), as well as setting up and manipulating user accounts across multiple servers within the domain. This project emphasized the importance of domain security and efficient resource management within an Active Directory (AD) environment.
+Project Overview: In this project, I managed the SAVN.local domain by performing essential system administration tasks. The focus was on configuring and securing the network by creating and managing Organizational Units (OUs), as well as setting up and manipulating user accounts across multiple servers within the domain. This project emphasized the importance of domain security and efficient resource management within an Active Directory (AD) environment.
 Key Objectives:
 Organizational Unit (OU) Creation:
 I established OUs for the Administration, Research, and Sales departments within the SAVN.local domain. This structure allowed for more granular control and application of security policies tailored to each department’s needs, ensuring that resources are managed efficiently and securely.
