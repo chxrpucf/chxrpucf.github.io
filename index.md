@@ -21,7 +21,7 @@ Virtual Desktop (CMB-SP24-W10-1): This client machine runs Windows 10 and access
 Through this project, I will configure IP settings, implement centralized and secure management of the network, and ensure all components work seamlessly together to support SAVN’s operations.
 ### AD DS AND DNS ROLES INSTALLED
 
-![Branching](https://docs.google.com/document/d/1HnYFiNJ5eso6yP-6tgihzOVBIvID8p6SlmEawQNcixk/edit?usp=sharing)
+<a href="https://docs.google.com/document/d/1HnYFiNJ5eso6yP-6tgihzOVBIvID8p6SlmEawQNcixk/edit?usp=sharing">link text</a>
 
 ![Branching](1-AD_DS_and_DNS_roles_installed.png)
 
