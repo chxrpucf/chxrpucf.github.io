@@ -78,7 +78,7 @@ Through this project, I will configure IP settings, implement centralized and se
 # Managing the SAVN.local Domain
 
 
-<a href="[https://docs.google.com/document/d/1HnYFiNJ5eso6yP-6tgihzOVBIvID8p6SlmEawQNcixk/edit?usp=sharing](https://docs.google.com/document/d/1Igvi7cHpFZX13rb6o1Mq7J-Net3DuPimOiDF7TDZKS0/edit?usp=sharing](https://docs.google.com/document/d/1Igvi7cHpFZX13rb6o1Mq7J-Net3DuPimOiDF7TDZKS0/edit?usp=sharing)">Managing the SAVN.local Domain PDF</a>
+<a href="https://docs.google.com/document/d/1Igvi7cHpFZX13rb6o1Mq7J-Net3DuPimOiDF7TDZKS0/edit?usp=sharing">Managing the SAVN.local Domain PDF</a>
 
 > This is a blockquote following a header.
 >
