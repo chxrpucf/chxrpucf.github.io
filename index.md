@@ -22,24 +22,26 @@ Virtual Desktop (CMB-SP24-W10-1): This client machine runs Windows 10 and access
 
 Through this project, I will configure IP settings, implement centralized and secure management of the network, and ensure all components work seamlessly together to support SAVN’s operations.
 
-<a href="https://docs.google.com/document/d/1HnYFiNJ5eso6yP-6tgihzOVBIvID8p6SlmEawQNcixk/edit?usp=sharing">Installing and Configuring a Virtual Network PDF</a>
-
 
 
 
 # Managing the SAVN.local Domain
 
 Project Overview: In this project, I managed the SAVN.local domain by performing essential system administration tasks. The focus was on configuring and securing the network by creating and managing Organizational Units (OUs), as well as setting up and manipulating user accounts across multiple servers within the domain. This project emphasized the importance of domain security and efficient resource management within an Active Directory (AD) environment.
+
 Key Objectives:
 Organizational Unit (OU) Creation:
 I established OUs for the Administration, Research, and Sales departments within the SAVN.local domain. This structure allowed for more granular control and application of security policies tailored to each department’s needs, ensuring that resources are managed efficiently and securely.
+
 User Account Management:
 Local User Account Creation: On the standalone server MJL-SP24-S22-2, I created a local user account using the Local Users and Groups MMC snap-in. This process highlighted the distinction between local and domain-oriented accounts, crucial for understanding access control within a hybrid environment.
 Domain User Account Creation: On MJL-SP24-S22-1, the domain controller for SAVN.local, I set up a domain user account using the Active Directory Users and Computers tool. This task was integral to managing access to network resources and applying group policies effectively.
+
 Moving User Accounts to OUs:
 I demonstrated how to organize and secure user accounts by moving the newly created domain user account into the appropriate OU (Administration). This step is vital for maintaining a structured and secure environment, allowing for the streamlined application of security policies.
 Testing Domain User Logon Without a Domain Controller:
 To assess the domain’s resilience, I attempted to log into MJL-SP24-S22-2 as the domain user after shutting down the domain controller (MJL-SP24-S22-1). As expected, the logon attempt failed, reinforcing the critical role of the domain controller in user authentication and access control. This test underscores the importance of ensuring domain controller availability for maintaining network security and accessibility.
+
 Cybersecurity Implications: This project highlighted several cybersecurity best practices, including the importance of proper organizational structuring within Active Directory, the need for clear distinctions between local and domain user accounts, and the significance of maintaining the availability of key network infrastructure components like domain controllers. By successfully completing this project, I enhanced the security posture of the SAVN.local domain and gained valuable hands-on experience in managing and securing a Windows-based network environment.
 
 
