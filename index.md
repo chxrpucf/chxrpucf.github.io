@@ -4,26 +4,23 @@ layout: default
 
 # Installing and Configuring a Virtual Network
 
-<a href="https://docs.google.com/document/d/1HnYFiNJ5eso6yP-6tgihzOVBIvID8p6SlmEawQNcixk/edit?usp=sharing">Installing and Configuring a Virtual Network PDF</a>
+Project Overview: 
+"SAVN.local" is a virtual private network designed for a fictitious company called System Administration Virtual Network Company (SAVN). For this project I will act as the company’s system administrator, thus I am responsible for designing and implementing this network. 
 
-Project Overview: SAVN.local Virtual Network Implementation
-
-"SAVN.local" is a virtual private network (VPN) designed for a fictitious company called System Administration Virtual Network Company (SAVN). As the company’s system administrator, I am responsible for designing and implementing this network. SAVN’s network infrastructure will be built using Microsoft technologies, specifically Windows Server 2022 for servers and Windows 10 for desktop environments.
-
+<a href="https://docs.google.com/document/d/1HnYFiNJ5eso6yP-6tgihzOVBIvID8p6SlmEawQNcixk/edit?usp=sharing">Installing and Configuring a Virtual Network Documentation</a>
 
 
 
 # Managing the SAVN.local Domain
 
-Project Overview: In this project, I managed the SAVN.local domain by performing essential system administration tasks. The focus was on configuring and securing the network by creating and managing Organizational Units (OUs), as well as setting up and manipulating user accounts across multiple servers within the domain. This project emphasized the importance of domain security and efficient resource management within an Active Directory (AD) environment.
+Project Overview:
+I manage the SAVN.local domain by performing essential system administration tasks. The focus was on configuring and securing the network by creating and managing Organizational Units, as well as setting up and manipulating user accounts across multiple servers within the domain
+
+<a href="https://docs.google.com/document/d/1Igvi7cHpFZX13rb6o1Mq7J-Net3DuPimOiDF7TDZKS0/edit?usp=sharing">Managing the SAVN.local Domain Documentation</a>
 
 
-
-<a href="https://docs.google.com/document/d/1Igvi7cHpFZX13rb6o1Mq7J-Net3DuPimOiDF7TDZKS0/edit?usp=sharing">Managing the SAVN.local Domain PDF</a>
-
-
-# Implementation Of File Encryption Using The Hill Cypher In C 
-<a href="https://docs.google.com/document/d/1aeJo6Z1QBsE0bTNJrNPi4eyraVfW0h10i4nWSeG3S-E/edit?usp=sharing">File Encryption Using The Hill Cypher PDF</a>
+# Implementation Of File Encryption With Hill Cypher In C 
+<a href="https://docs.google.com/document/d/1aeJo6Z1QBsE0bTNJrNPi4eyraVfW0h10i4nWSeG3S-E/edit?usp=sharing">File Encryption Using The Hill Cypher Documentation</a>
 
 
 ### !!UNDER CONSTRUCTION!!
